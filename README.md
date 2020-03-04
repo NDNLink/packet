@@ -1,2 +1,2 @@
 # packet
-NDNLink stream-oriented packet connection
+NDNLink's stream-oriented packet connection
